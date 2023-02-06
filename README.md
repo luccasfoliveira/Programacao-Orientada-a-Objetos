@@ -12,7 +12,7 @@ Criar uma classe "Pessoa" que tenha atributos nome, idade e endereço e métodos
 [Criar uma classe "Conta Bancária" que tenha atributos nome do titular, número da conta e saldo, e métodos para depositar e retirar dinheiro.](exercicio_01.py)
 
 
-Criar uma classe "Veículo" que tenha atributos marca, modelo, ano de fabricação e velocidade, e métodos para acelerar e frear.
+[Criar uma classe "Veículo" que tenha atributos marca, modelo, ano de fabricação e velocidade, e métodos para acelerar e frear.](exercicio_02.py)
 
 
 Criar uma classe "Produto" que tenha atributos nome, descrição, preço e quantidade, e métodos para calcular o preço total em estoque.
