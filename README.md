@@ -6,16 +6,18 @@ Luccas: elabora uma lista de exercícios sobre Programação Orientada a Objetos
 
 chat: Aqui está uma lista de exercícios para aprender Programação Orientada a Objetos em Python:
 
-Criar uma classe "Pessoa" que tenha atributos nome, idade e endereço e métodos para retornar esses valores.
 
 ### Exercícios:
-[Criar uma classe "Conta Bancária" que tenha atributos nome do titular, número da conta e saldo, e métodos para depositar e retirar dinheiro.](exercicio_01.py)
+
+[Criar uma classe "Pessoa" que tenha atributos nome, idade e endereço e métodos para retornar esses valores.](exercicio_01.py)
+
+[Criar uma classe "Conta Bancária" que tenha atributos nome do titular, número da conta e saldo, e métodos para depositar e retirar dinheiro.](exercicio_02.py)
 
 
-[Criar uma classe "Veículo" que tenha atributos marca, modelo, ano de fabricação e velocidade, e métodos para acelerar e frear.](exercicio_02.py)
+[Criar uma classe "Veículo" que tenha atributos marca, modelo, ano de fabricação e velocidade, e métodos para acelerar e frear.](exercicio_03.py)
 
 
-Criar uma classe "Produto" que tenha atributos nome, descrição, preço e quantidade, e métodos para calcular o preço total em estoque.
+[Criar uma classe "Produto" que tenha atributos nome, descrição, preço e quantidade, e métodos para calcular o preço total em estoque.](exercicio_04.py)
 
 
 Criar uma classe "Livro" que herda da classe "Produto" e adiciona um atributo "autor".
