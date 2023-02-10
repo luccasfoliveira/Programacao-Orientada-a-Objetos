@@ -14,5 +14,3 @@ class Produto:
             return True
         else:
             return False
-
-    
