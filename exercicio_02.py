@@ -3,7 +3,6 @@ Criar uma classe "Conta Bancária" que tenha atributos: nome do titular, número
 e métodos para depositar e retirar dinheiro.
 """
 
-
 class ContaBancaria:
     def __init__(self, titular, conta, saldo):
         self.titular = titular
